@@ -183,7 +183,7 @@ a:visited {
 	letter-spacing:2;
 }
 .box1 {
-    background-color:rgba(255, 255, 255, 1);
+    background-color:#FFFFFF;
 	width:394px;
 	height:475px;
 	position:absolute;
@@ -193,10 +193,10 @@ a:visited {
 	border-top-right-radius:10px;
 	border-bottom-left-radius:10px;
 	border-bottom-right-radius:10px;
-    border:3px solid rgba(127.5, 127.5, 127.5, 1);
+    border:3px solid #808080;
 }
 .box2 {
-	background-color:rgba(255, 255, 255, 1);
+	background-color:#FFFFFF;
 	width:394px;
 	height:475px;
 	position:absolute;
@@ -206,10 +206,10 @@ a:visited {
 	border-top-right-radius:10px;
 	border-bottom-left-radius:10px;
 	border-bottom-right-radius:10px;
-    border:3px solid rgba(127.5, 127.5, 127.5, 1);
+    border:3px solid #808080;
 }
 .box3 {
-	background-color:rgba(255, 255, 255, 1);
+	background-color:#FFFFFF;
 	width:394px;
 	height:475px;
 	position:absolute;
@@ -219,10 +219,10 @@ a:visited {
 	border-top-right-radius:10px;
 	border-bottom-left-radius:10px;
 	border-bottom-right-radius:10px;
-    border:3px solid rgba(127.5, 127.5, 127.5, 1);
+    border:3px solid #808080;
 }
 .box4 {
-	background-color:rgba(255, 255, 255, 1);
+	background-color:#FFFFFF;
 	width:394px;
 	height:475px;
 	position:absolute;
@@ -232,10 +232,10 @@ a:visited {
 	border-top-right-radius:10px;
 	border-bottom-left-radius:10px;
 	border-bottom-right-radius:10px;
-    border:3px solid rgba(127.5, 127.5, 127.5, 1);
+    border:3px solid #808080;
 }
 .box5 {
-	background-color:rgba(255, 255, 255, 1);
+	background-color:#FFFFFF;
 	width:394px;
 	height:475px;
 	position:absolute;
@@ -245,10 +245,10 @@ a:visited {
 	border-top-right-radius:10px;
 	border-bottom-left-radius:10px;
 	border-bottom-right-radius:10px;
-    border:3px solid rgba(127.5, 127.5, 127.5, 1);
+    border:3px solid #808080;
 }
 .box6 {
-    background-color:rgba(255, 255, 255, 1);
+    background-color:#FFFFFF;
 	width:394px;
 	height:475px;
 	position:absolute;
@@ -258,7 +258,7 @@ a:visited {
 	border-top-right-radius:10px;
 	border-bottom-left-radius:10px;
 	border-bottom-right-radius:10px;
-    border:3px solid rgba(127.5, 127.5, 127.5, 1);
+    border:3px solid #808080;
 }
 .original, .blackberry, .walnut, .gluten_free, .pumpkin_spice, .caramel_pecan {
 	color:#000000;
@@ -284,7 +284,7 @@ a:visited {
 	letter-spacing:2;
 }
 .description1, .description2, .description3, .description4, .description5, .description6 {
-	color:rgba(0, 0, 0, 1);
+	color:#000000;
 	width:314px;
 	height:112px;
 	position:absolute;
@@ -386,7 +386,7 @@ a:visited {
 	top:240px;
 }
 .go_back {
-	color:rgba(0, 0, 0, 1);
+	color:#000000;
 	width:121px;
 	height:39px;
 	position:absolute;
@@ -431,10 +431,10 @@ a:visited {
 	border-top-right-radius:10px;
 	border-bottom-left-radius:10px;
 	border-bottom-right-radius:10px;
-    border:1px solid rgba(127.5, 127.5, 127.5, 1);
+    border:1px solid #808080;
 }
 .glazing_d1 {
-	background-color:rgba(127.5, 127.5, 127.5, 1);
+	background-color:#808080;
 	width:1px;
 	height:75px;
 	position:absolute;
@@ -442,7 +442,7 @@ a:visited {
 	top:451px;
 }
 .glazing_d2 {
-	background-color:rgba(127.5, 127.5, 127.5, 1);
+	background-color:#808080;
 	width:1px;
 	height:75px;
 	position:absolute;
@@ -450,7 +450,7 @@ a:visited {
 	top:451px;
 }
 .glazing_d3 {
-	background-color:rgba(127.5, 127.5, 127.5, 1);
+	background-color:#808080;
 	width:1px;
 	height:75px;
 	position:absolute;
@@ -458,7 +458,7 @@ a:visited {
 	top:451px;
 }
 .none {
-	color:rgba(0, 0, 0, 1);
+	color:#000000;
 	width:56px;
 	height:37px;
 	position:absolute;
@@ -471,7 +471,7 @@ a:visited {
 	line-height:px;   
 }
 .sugar_milk {
-	color:rgba(0, 0, 0, 1);
+	color:#000000;
 	width:60px;
 	height:56px;
 	position:absolute;
@@ -484,7 +484,7 @@ a:visited {
 	line-height:px;
 }
 .vanilla_milk {
-	color:rgba(0, 0, 0, 1);
+	color:#000000;
 	width:68px;
 	height:56px;
 	position:absolute;
@@ -497,7 +497,7 @@ a:visited {
 	line-height:px;
 }
 .double_chocolate {
-	color:rgba(0, 0, 0, 1);
+	color:#000000;
 	width:109px;
 	height:56px;
 	position:absolute;
@@ -510,7 +510,7 @@ a:visited {
 	line-height:px;    
 }
 .quantity h2 {
-	color:rgba(0, 0, 0, 1);
+	color:#000000;
 	width:121px;
 	height:37px;
 	position:absolute;
@@ -523,7 +523,7 @@ a:visited {
 	line-height:px;
 }
 .quantity_box {
-	background-color:rgba(255, 255, 255, 1);
+	background-color:#FFFFFF;
 	width:548px;
 	height:74px;
 	position:absolute;
@@ -533,10 +533,10 @@ a:visited {
 	border-top-right-radius:10px;
 	border-bottom-left-radius:10px;
 	border-bottom-right-radius:10px;
-    border:1px solid rgba(127.5, 127.5, 127.5, 1);
+    border:1px solid #808080;
 }
 .quantity_d1 {
-	background-color:rgba(127.5, 127.5, 127.5, 1);
+	background-color:#808080;
 	width:1px;
 	height:75px;
 	position:absolute;
@@ -544,7 +544,7 @@ a:visited {
 	top:602px;
 }
 .quantity_d2 {
-	background-color:rgba(127.5, 127.5, 127.5, 1);
+	background-color:#808080;
 	width:1px;
 	height:75px;
 	position:absolute;
@@ -552,7 +552,7 @@ a:visited {
 	top:602px;
 }
 .quantity_d3 {
-	background-color:rgba(127.5, 127.5, 127.5, 1);
+	background-color:#808080;
 	width:1px;
 	height:75px;
 	position:absolute;
@@ -560,7 +560,7 @@ a:visited {
 	top:602px;
 }
 .quantity1 {
-    color:rgba(0, 0, 0, 1);
+    color:#000000;
 	width:13px;
 	height:37px;
 	position:absolute;
@@ -573,7 +573,7 @@ a:visited {
 	line-height:px;
 }
 .quantity2 {
-	color:rgba(0, 0, 0, 1);
+	color:#000000;
 	width:17px;
 	height:37px;
 	position:absolute;
@@ -586,7 +586,7 @@ a:visited {
 	line-height:px;
 }
 .quantity3 {
-	color:rgba(0, 0, 0, 1);
+	color:#000000;
 	width:18px;
 	height:37px;
 	position:absolute;
@@ -599,7 +599,7 @@ a:visited {
 	line-height:px;
 }
 .quantity4 {
-	color:rgba(0, 0, 0, 1);
+	color:#000000;
 	width:30px;
 	height:37px;
 	position:absolute;
@@ -612,7 +612,7 @@ a:visited {
 	line-height:px;
 }
 .ingredients_title {
-    color:rgba(0, 0, 0, 1);
+    color:#000000;
 	width:140px;
 	height:37px;
 	position:absolute;
@@ -625,7 +625,7 @@ a:visited {
     font-weight: 500;
 }
 .ingredients_description {
-    color:rgba(0, 0, 0, 1);
+    color:#000000;
 	width:465px;
 	height:108px;
 	position:absolute;
@@ -637,7 +637,7 @@ a:visited {
 	letter-spacing:2;
 }
 .add_to_cart_button {
-	background-color:rgba(0, 0, 0, 0.11999999731779099);
+	background-color:#E0E0E0;
 	width:184px;
 	height:68px;
 	position:absolute;
@@ -649,7 +649,7 @@ a:visited {
 	border-bottom-right-radius:10px;
 }
 .add_to_cart {
-	color:rgba(158.31250101327896, 158.31250101327896, 158.31250101327896, 1);
+	color:#9E9E9E;
 	width:140px;
 	height:30px;
 	position:absolute;
