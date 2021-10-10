@@ -32,7 +32,7 @@
 	font-family:Airbnb Cereal App;
 	text-align:left;
 	font-size:32px;
-	letter-spacing:4;
+	letter-spacing:2px;
 }
 ul {
     list-style: none;
@@ -105,7 +105,7 @@ a:visited {
 }
 .home_title { 
 	color: #000000;
-	width:350px;
+	width:370px;
 	height:94px;
 	position:relative;
 	left:112px;
@@ -114,7 +114,7 @@ a:visited {
 	text-align:left;
 	font-size:45px;
     font-weight: 400;
-	letter-spacing:4;
+	letter-spacing:2px;
 }
 .home_heading {
 	color:#000000;
@@ -126,8 +126,6 @@ a:visited {
 	font-family:Airbnb Cereal App;
 	text-align:left;
 	font-size:30px;
-	letter-spacing:2;
-	line-height:px;
 }
 .order_button {
 	width:358px;
@@ -158,7 +156,6 @@ a:visited {
 	font-family:Airbnb Cereal App;
 	text-align:left;
 	font-size:35px;
-	letter-spacing:2;
 }
 .bun_photo {
     width:518px;
@@ -180,7 +177,6 @@ a:visited {
 	font-family:Airbnb Cereal App;
 	text-align:left;
 	font-size:45px;
-	letter-spacing:2;
 }
 .box1 {
     background-color:#FFFFFF;
@@ -270,7 +266,6 @@ a:visited {
 	font-family:Airbnb Cereal App;
 	text-align:left;
 	font-size:30px;
-	letter-spacing:2;
 }
 .price1, .price2, .price3, .price4, .price5, .price6 {
     width:36px;
@@ -281,7 +276,6 @@ a:visited {
 	font-family:Airbnb Cereal App;
 	text-align:left;
 	font-size:30px;
-	letter-spacing:2;
 }
 .description1, .description2, .description3, .description4, .description5, .description6 {
 	color:#000000;
@@ -293,8 +287,6 @@ a:visited {
 	font-family:Airbnb Cereal App;
 	text-align:left;
 	font-size:18px;
-	letter-spacing:0;
-	line-height:px;
 }
 .box1 img, .box2 img, .box3 img, .box4 img, .box5 img, .box6 img {
     width:243px;
@@ -366,7 +358,6 @@ a:visited {
 	font-family:Airbnb Cereal App;
 	text-align:left;
 	font-size:50px;
-	letter-spacing:2;
 }
 .original_bun img {
 	width:409px;
@@ -394,8 +385,7 @@ a:visited {
 	top:3px;
 	font-family:Airbnb Cereal App;
 	text-align:left;
-	font-size:30px;
-	letter-spacing:2;   
+	font-size:30px;  
 }
 .back img {
     width:44px;
@@ -417,8 +407,6 @@ a:visited {
 	font-family:Airbnb Cereal App;
 	text-align:left;
 	font-size:28px;
-	letter-spacing:2;
-	line-height:px;
 }
 .glazing_box {
 	background-color:rgba(255, 255, 255, 1);
@@ -466,9 +454,7 @@ a:visited {
 	top:468px;
 	font-family:Airbnb Cereal App;
 	text-align:left;
-	font-size:22px;
-	letter-spacing:2;
-	line-height:px;   
+	font-size:22px;  
 }
 .sugar_milk {
 	color:#000000;
@@ -480,8 +466,6 @@ a:visited {
 	font-family:Airbnb Cereal App;
 	text-align:center;
 	font-size:22px;
-	letter-spacing:2;
-	line-height:px;
 }
 .vanilla_milk {
 	color:#000000;
@@ -493,8 +477,6 @@ a:visited {
 	font-family:Airbnb Cereal App;
 	text-align:center;
 	font-size:22px;
-	letter-spacing:2;
-	line-height:px;
 }
 .double_chocolate {
 	color:#000000;
@@ -505,9 +487,7 @@ a:visited {
 	top:459px;
 	font-family:Airbnb Cereal App;
 	text-align:center;
-	font-size:22px;
-	letter-spacing:2;
-	line-height:px;    
+	font-size:22px;   
 }
 .quantity h2 {
 	color:#000000;
@@ -519,8 +499,6 @@ a:visited {
 	font-family:Airbnb Cereal App;
 	text-align:left;
 	font-size:28px;
-	letter-spacing:2;
-	line-height:px;
 }
 .quantity_box {
 	background-color:#FFFFFF;
@@ -569,8 +547,6 @@ a:visited {
 	font-family:Airbnb Cereal App;
 	text-align:left;
 	font-size:30px;
-	letter-spacing:2;
-	line-height:px;
 }
 .quantity2 {
 	color:#000000;
@@ -582,8 +558,6 @@ a:visited {
 	font-family:Airbnb Cereal App;
 	text-align:left;
 	font-size:30px;
-	letter-spacing:2;
-	line-height:px;
 }
 .quantity3 {
 	color:#000000;
@@ -595,8 +569,6 @@ a:visited {
 	font-family:Airbnb Cereal App;
 	text-align:left;
 	font-size:30px;
-	letter-spacing:2;
-	line-height:px;
 }
 .quantity4 {
 	color:#000000;
@@ -608,8 +580,6 @@ a:visited {
 	font-family:Airbnb Cereal App;
 	text-align:left;
 	font-size:30px;
-	letter-spacing:2;
-	line-height:px;
 }
 .ingredients_title {
     color:#000000;
@@ -621,7 +591,6 @@ a:visited {
 	font-family:Airbnb Cereal App;
 	text-align:left;
 	font-size:25px;
-	letter-spacing:2;
     font-weight: 500;
 }
 .ingredients_description {
@@ -634,7 +603,6 @@ a:visited {
 	font-family:Airbnb Cereal App;
 	text-align:left;
 	font-size:22px;
-	letter-spacing:2;
 }
 .add_to_cart_button {
 	background-color:#E0E0E0;
@@ -657,7 +625,5 @@ a:visited {
 	top:740px;
 	font-family:Airbnb Cereal App;
 	text-align:center;
-	font-size:22px;
-	letter-spacing:2;
-	line-height:px;   
+	font-size:22px;  
 }
